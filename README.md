@@ -7,7 +7,6 @@ Data Professional
 "Data is the new oil, and I’m here to refine it!" I specialize in building robust data pipelines and scalable cloud infrastructures to power data-driven decision-making. With expertise in AWS, Azure, Python, Oracle SQL, Databricks, and Power BI, I’ve built scalable data architectures and automated ETL processes that optimize real-time data workflows. I’ve successfully reduced data processing times by 40% and improved data latency, ensuring efficient data handling for large-scale datasets. In addition to my technical skills, I pride myself on my collaboration and communication abilities, enabling me to work effectively with cross-functional teams. I’m passionate about taking on new challenges and contributing to innovative solutions in the data engineering space. I’m actively seeking opportunities in Data Engineering and Data Analytics where I can apply my skills to build efficient, scalable data infrastructure. Let’s connect!
 
 * 🌍  I'm based in Chicago
-* 🖥️  See my portfolio at [Datascience Portfolio](http://datascienceportfol.io/pawarhrishikesh426)
 * ✉️  You can contact me at [pawarhrishikesh426@gmail.com](mailto:pawarhrishikesh426@gmail.com)
 * 🧠  I'm learning Data Orchestration tools with business impacts
 * 🤝  I'm open to collaborating on Data Engineering and Analytics projects
